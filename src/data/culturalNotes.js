@@ -7,4 +7,6 @@ export const culturalNotes = {
     "Equivalent to czech idiom 'Dobriden' - very familiar.",
   "whats up":
     "this is also the same Czech equivalent expression'Dobriden' - again very familiar.",
+  "dobrou chuť":
+    "In Czech, this is said before eating, like 'Bon appétit!' in French.",
 };
